@@ -1,53 +1,20 @@
 {
   "index": {
-    "title": "Regens Unite - 2-day conversation to move from sustain to regen",
-    "description":
-      "May 19-20, join us in Brussels to explore together how we can move the conversation from sustain to regen.",
-    "image": "/images/regensunite-banner-small.jpg",
-    "favicon": "/images/regensunite-favicon.gif",
-    "googleDocId": "1hhINyD2nwdhXX3nAyaZp_T89znWaNZ4jOhAxX08nCrg"
+    "title": "Gospel of Change",
+    "description": "Who Am I?",
+    "googleDocId": "1zDURjWFTtSGRnTtw4jUFJOZnGqbEv4b9leMs7f0rmLo",
+    "favicon":""
   },
-  "staging": {
-    "title": "STAGING - Regens Unite - 2-day conversation to move from sustain to regen",
-    "description":
-      "May 19-20, join us in Brussels to explore together how we can move the conversation from sustain to regen.",
-    "image": "/images/regensunite-logo.gif",
-    "favicon": "/images/regensunite-favicon.gif",
-    "googleDocId": "1vRRNapSrmgHLy-si79fV3bcWh4LwrTOPZuWHeEaqGZ0"
+  "past": {
+    "title": "Gospel of Change",
+    "description": "Past",
+    "googleDocId": "1wkJtaJOxclvXSq7Eb39aqCCogRNXfRw_ANxvpbWVh5A",
+    "favicon":""
   },
-  "contributions": {
-    "title": "Regens Unite - contributions",
-    "description": "Help us make Regens Unite happen. Contribute!",
-    "googleDocId": "1VMmPmMTRj_iFz_tYYjHMS2DVPNe3puIx_QOAh8GXuzk"
-  },
-  "venue": {
-    "title": "Regens Unite - Venue",
-    "description": "All about where Regens will meet in Brussels May 19-20 2022.",
-    "googleDocId": "1cwrnfc8LJv2xyOMccDZM1GtHZhbgtLxgws0ypjbQ-kk"
-  },
-  "program": {
-    "title": "Regens Unite - Program",
-    "description": "We are designing the program while you are reading this, working with all suggestions from participants.",
-    "googleDocId": "1dxEdMSZzEN9GIZR5u00wcxWjmA5NSuuW8lbCTUc5dqk"
-  },
-  "sponsoring": {
-    "title": "Regens Unite - Sponsoring",
-    "description": "Help us make this regenerative event happen.",
-    "googleDocId": "1W6a1M39lqdFYeUYU_WWgklUBJM4oCMu23kpjXI5C-Rs"
-  },
-  "finance": {
-    "title": "Regens Unite - Finance Working Group",
-    "description": "Working group to manage the finance of Regens Unite Brussels.",
-    "googleDocId": "1pw0EAubWTok6ikG3sFZAv9ZUntY7DQjlh03OATPvFKQ"
-  },
-  "participants": {
-    "title": "Regens Unite - Confirmed Participants",
-    "description": "Join those fabulous regens who have already confirmed their attendance.",
-    "googleDocId": "1zcrFUf2XOTk7Vmt7I2hXhxgujpOoheGSo13vs0pJ6K8"
-  },
-  "facilitators": {
-    "title": "Regens Unite - Facilitators Working Group",
-    "description": "Working group to facilitate the event.",
-    "googleDocId": "1uq6nuj8UldXE3KpvzIcj4xpgfGZQzqYudN18fykhgOE"
+  "present": {
+    "title": "Gospel of Change",
+    "description": "Present",
+    "googleDocId": "1WHV6tTrWHcox0rrPTFxnm-EJdn64WfI2GJnRZwb6gJA",
+    "favicon":""
   }
 }
