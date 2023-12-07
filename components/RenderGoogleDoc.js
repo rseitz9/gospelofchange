@@ -33,6 +33,7 @@ class RenderGoogleDoc extends React.Component {
         if (node.type === "tag" && node.name === "img") {
           return (
             <Image
+              unoptimized
               src={node.attribs.src}
               width={node.attribs.width}
               height={node.attribs.height}
